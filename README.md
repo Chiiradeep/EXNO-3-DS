@@ -5,9 +5,13 @@ To read the given data and perform Feature Encoding and Transformation process a
 
 # ALGORITHM:
 STEP 1:Read the given Data.
+
 STEP 2:Clean the Data Set using Data Cleaning Process.
+
 STEP 3:Apply Feature Encoding for the feature in the data set.
+
 STEP 4:Apply Feature Transformation for the feature in the data set.
+
 STEP 5:Save the data to the file.
 
 # FEATURE ENCODING:
@@ -23,15 +27,21 @@ We use this categorical data encoding technique when the features are nominal(do
 # Methods Used for Data Transformation:
   # 1. FUNCTION TRANSFORMATION
 • Log Transformation
+
 • Reciprocal Transformation
+
 • Square Root Transformation
+
 • Square Transformation
+
   # 2. POWER TRANSFORMATION
 • Boxcox method
+
 • Yeojohnson method
 
 # CODING AND OUTPUT:
 # Developed by : Chiiradeep R
+
 # Reg No : 212224240028
 ```
 import pandas as pd
